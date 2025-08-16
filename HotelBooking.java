@@ -36,7 +36,7 @@ public class HotelBooking {
         }
     }
 
-   
+    
     static class Booking {
         private int bookingId;
         private String guestName;
